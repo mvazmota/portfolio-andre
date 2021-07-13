@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-andre/static/css/main.a617e044.chunk.css",
+    "main.js": "/portfolio-andre/static/js/main.b464897b.chunk.js",
+    "main.js.map": "/portfolio-andre/static/js/main.b464897b.chunk.js.map",
+    "runtime-main.js": "/portfolio-andre/static/js/runtime-main.3b01ff92.js",
+    "runtime-main.js.map": "/portfolio-andre/static/js/runtime-main.3b01ff92.js.map",
+    "static/js/2.7507ca6f.chunk.js": "/portfolio-andre/static/js/2.7507ca6f.chunk.js",
+    "static/js/2.7507ca6f.chunk.js.map": "/portfolio-andre/static/js/2.7507ca6f.chunk.js.map",
+    "static/js/3.6502f6b7.chunk.js": "/portfolio-andre/static/js/3.6502f6b7.chunk.js",
+    "static/js/3.6502f6b7.chunk.js.map": "/portfolio-andre/static/js/3.6502f6b7.chunk.js.map",
+    "index.html": "/portfolio-andre/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/portfolio-andre/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7507ca6f.chunk.js.LICENSE.txt": "/portfolio-andre/static/js/2.7507ca6f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/portfolio-andre/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b01ff92.js",
+    "static/js/2.7507ca6f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b464897b.chunk.js"
+  ]
+}
